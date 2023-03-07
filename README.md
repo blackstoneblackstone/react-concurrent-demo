@@ -1,4 +1,4 @@
-# react 并发渲染的经典示例代码
+# React 并发渲染的经典示例代码
 
 示例线上地址：[点击试试看](http://games.yondu.vip/rc/)
 
